@@ -1,0 +1,10 @@
+{
+	"name": "smolblocks",
+	"displayName": "smolblocks",
+	"description": "makes blocks smol",
+	"author": "gorodmi",
+	"version": "1.0.0",
+	"subtitle": "version 1.0.0"
+	"minGameVersion": 136,
+	"repo": "gorodmi/smolblocks"
+}
